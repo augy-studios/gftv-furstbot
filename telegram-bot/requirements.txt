@@ -2,3 +2,4 @@ python-dotenv
 telethon
 requests
 gspread
+oauth2client
